@@ -1,0 +1,2 @@
+# Thesaurus
+Social thesaurus project
